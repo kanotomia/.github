@@ -1,4 +1,4 @@
-<img src="kanotomia.png" height="25%" width="25%" />
+<img src="http://www.kanotomia.org/static/media/logo-dark.919b019d0a0516d0cf48.png" height="25%" width="25%" />
 
 # Kanotomia 
 ## A french 🇫🇷 organization at Saint Louis de gonzague 🏫 `Since 2020`
