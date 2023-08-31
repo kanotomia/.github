@@ -11,4 +11,4 @@ We are 60 computer enthusiasts, from third to final year, including several mode
 ## 60 contributors
 | <img src="http://www.kanotomia.org/static/media/alx.ae14215541392c60b2b4.jpeg" height="50px" width="50px">| <img src="http://www.kanotomia.org/static/media/gabriel.3a6a2bd174d7a045a3c3.png" height="50px" width="50px"> | <img src="https://cdn.discordapp.com/avatars/662640180494073887/a5eeb4999b0f585611f43538d824bd13.png?size=1024" height="50px" width="50px"> |
 |-----------|-----------|-----------|
-| Alx calcio (alx_calcio)   | Gabriel Merville (labicorne)   | Alexandre Bekaert (pastalapate)   |
+| Alx calcio (alx_calcio)   | Gabriel Merville (labicorne)   | Alexandre (pastalapate)   |
