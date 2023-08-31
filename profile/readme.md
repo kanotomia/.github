@@ -9,6 +9,6 @@
 ## Who are we ?
 We are 60 computer enthusiasts, from third to final year, including several moderators, sharing their knowledge in Dev!
 ## 60 contributors
-| <img src="http://www.kanotomia.org/static/media/alx.ae14215541392c60b2b4.jpeg" height="50px" width="50px">| <img src="http://www.kanotomia.org/static/media/gabriel.3a6a2bd174d7a045a3c3.png" height="50px" width="50px"> | <img src="https://cdn.discordapp.com/avatars/662640180494073887/a5eeb4999b0f585611f43538d824bd13.png?size=1024" height="50px" width="50px"> |
+| <img src='https://cdn.discordapp.com/avatars/845618236409643062/1d8146c5475e13ab2f0ead887ba0c9a3.png?size=1024' height="50px" width="50px">| <img src="https://cdn.discordapp.com/avatars/636863599532572692/ad64106d3d391dd080b44e97835aedc0.png?size=1024" height="50px" width="50px"> | <img src="https://cdn.discordapp.com/avatars/662640180494073887/a5eeb4999b0f585611f43538d824bd13.png?size=1024" height="50px" width="50px"> |
 |-----------|-----------|-----------|
 | Alx calcio (alx_calcio)   | Gabriel Merville (labicorne)   | Alexandre (pastalapate)   |
